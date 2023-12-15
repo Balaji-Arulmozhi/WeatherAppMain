@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F992C5B-6E39-46B2-BDEF-5EF49277F156"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "830FCB4A-1386-400F-9144-BCD82BCE360B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "830FCB4A-1386-400F-9144-BCD82BCE360B - e1c972b037d2dedf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "830FCB4A-1386-400F-9144-BCD82BCE360B - df662ed4ea33070f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28954E95-8E1D-4639-8EBC-0FC522637CB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FF2755E-E41E-485E-857E-43E591DF6795"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7707B7CD-50CF-4E06-AE26-3E5D19F228D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7707B7CD-50CF-4E06-AE26-3E5D19F228D6 - df662ed4ea330671"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "7707B7CD-50CF-4E06-AE26-3E5D19F228D6 - df662ed4ea330671"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7723347-70DC-4D38-99B3-41095AD63139"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E7723347-70DC-4D38-99B3-41095AD63139 - 6ea7bb2bb307a5c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1128">
+               </Location>
+               <Location
+                  uuid = "E7723347-70DC-4D38-99B3-41095AD63139 - 6ea7bb2bb307a5c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "1404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F988AFF-3BD5-4200-81C2-C3DD43AB4FC9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8A3C895-D23E-4938-A511-E6B1C6BE266D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "086899C3-66F7-4A5D-A33A-DF1C87D92CCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "086899C3-66F7-4A5D-A33A-DF1C87D92CCD - 5008e74f6ee67b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "086899C3-66F7-4A5D-A33A-DF1C87D92CCD - 6ea7bb2bb307a298"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D26D045-65D8-4E1E-951B-A443AC4401C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D26D045-65D8-4E1E-951B-A443AC4401C2 - 9f95154f0da04520"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "8D26D045-65D8-4E1E-951B-A443AC4401C2 - eaae5f05b88ea3b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "8D26D045-65D8-4E1E-951B-A443AC4401C2 - ea9fd1ba6811cf78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "322DB3BF-EC45-4618-915E-767B94B41322"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "322DB3BF-EC45-4618-915E-767B94B41322 - eaae5f05b88ea393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "322DB3BF-EC45-4618-915E-767B94B41322 - eaae5f05b88ea393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7489F3A-7034-433E-9300-F6E5C79F2F38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "load(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7489F3A-7034-433E-9300-F6E5C79F2F38 - eaae5f05b88ea3f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "C7489F3A-7034-433E-9300-F6E5C79F2F38 - eaae5f05b88ea3f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in weatherapp_Bitcot.ApiCalls.load(url: Foundation.URL, completion: (__C.UIImage) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "556">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAA65288-BAFA-4B5A-B7F1-7823F0A6823C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Forecast/View/forecastVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "backAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37B7E10B-4901-40FB-8C9A-17F42F86AE03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getCurrentURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37B7E10B-4901-40FB-8C9A-17F42F86AE03 - 3a9569fab2dd2dbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.getCurrentURL(url: Foundation.URL, completion: (weatherapp_Bitcot.getCurrentModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "37B7E10B-4901-40FB-8C9A-17F42F86AE03 - cdfc3d34e6e9332"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getCurrentURL(url: Foundation.URL, completion: (weatherapp_Bitcot.getCurrentModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AFD9631-453C-4B04-90B4-ED414956F6C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getCurrentURL(url:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F99EBCB2-BFD6-4698-838A-F095FF391165"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Webservice/ApiCalls.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getCurrentURL(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F99EBCB2-BFD6-4698-838A-F095FF391165 - cdfc3d34e6e9208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getCurrentURL(url: Foundation.URL, completion: (weatherapp_Bitcot.getCurrentModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "920">
+               </Location>
+               <Location
+                  uuid = "F99EBCB2-BFD6-4698-838A-F095FF391165 - cdfc3d34e6e9208"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getCurrentURL(url: Foundation.URL, completion: (weatherapp_Bitcot.getCurrentModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Webservice/ApiCalls.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1056">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C7DA15A-F1B6-4DA0-81D3-739B19DB9E6D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C7DA15A-F1B6-4DA0-81D3-739B19DB9E6D - 3058edd3435dc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "6C7DA15A-F1B6-4DA0-81D3-739B19DB9E6D - 3058edd3435dc251"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "6C7DA15A-F1B6-4DA0-81D3-739B19DB9E6D - a0d2b92d5ebf2c8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (weatherapp_Bitcot.getCurrentModel) -&gt; () in weatherapp_Bitcot.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "6C7DA15A-F1B6-4DA0-81D3-739B19DB9E6D - a0d2b92d5ebf2c8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (weatherapp_Bitcot.getCurrentModel) -&gt; () in weatherapp_Bitcot.HomeVC.viewDidLoad() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3059A24A-898A-4D78-83F3-23D0DFF96457"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Services/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getDataFromAPI(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3059A24A-898A-4D78-83F3-23D0DFF96457 - 328a9e8a5afad2b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "3059A24A-898A-4D78-83F3-23D0DFF96457 - c25c2ee871b0b27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (weatherapp_Bitcot.homeModel) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "3059A24A-898A-4D78-83F3-23D0DFF96457 - bceb54ac7385145d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "3059A24A-898A-4D78-83F3-23D0DFF96457 - 436a1a20d0f62691"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in weatherapp_Bitcot.ApiCalls.getURL(url: Foundation.URL, completion: (Foundation.Data) -&gt; ()) -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Services/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D21C503-6A6D-41CD-9C43-45DDB5A4D9C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB18AB7-2D6E-4BED-A1C0-C7DAC146EF86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "setdata()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAB18AB7-2D6E-4BED-A1C0-C7DAC146EF86 - 26c8c133c25a4f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.setdata() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "FAB18AB7-2D6E-4BED-A1C0-C7DAC146EF86 - 26c8c133c25a4f60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.setdata() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "592BFFFD-41D9-49F7-954B-0AF72D82924A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "setdata()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "592BFFFD-41D9-49F7-954B-0AF72D82924A - 26c8c133c25a4f81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.setdata() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "592BFFFD-41D9-49F7-954B-0AF72D82924A - 26c8c133c25a4f81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherapp_Bitcot.HomeVC.setdata() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/Learning%20/weatherapp-Bitcot/weatherapp-Bitcot/Home/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAB5E6FC-B6C9-488D-8C01-F525D4EC7442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "setdata()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1380EDA9-1653-4CB8-81C3-1D2DA2D14522"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Services/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30E55E0A-A220-49F6-AB86-7F0A512F7982"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Services/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B15B1710-8387-4B6F-A964-E285484D6CB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA4C168F-AF59-4272-B99A-A147E7B7E979"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CB60C30-CCE9-4286-9A91-F02A361FC7C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/Home/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "571B6D38-F3FC-4AE3-B435-D46863D69E5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherapp-Bitcot/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "bindingData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "571B6D38-F3FC-4AE3-B435-D46863D69E5C - 3554df5a1534b66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;weatherapp_Bitcot.HomeModel&gt;) -&gt; () in weatherapp_Bitcot.HomeVC.bindingData() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/weatherapp-Bitcot/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "571B6D38-F3FC-4AE3-B435-D46863D69E5C - 3554df5a1534b41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;weatherapp_Bitcot.HomeModel&gt;) -&gt; () in weatherapp_Bitcot.HomeVC.bindingData() -&gt; ()"
+                  moduleName = "weatherapp-Bitcot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/weatherapp-Bitcot/View/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "451E0E36-FA27-484F-8C63-B846FBBC465B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/homeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "451E0E36-FA27-484F-8C63-B846FBBC465B - 8f4ba86118d75e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.homeController.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/homeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1220">
+               </Location>
+               <Location
+                  uuid = "451E0E36-FA27-484F-8C63-B846FBBC465B - 8f4ba86118d75e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.homeController.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/homeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B91EF742-8780-414E-9BED-7B3322A462D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5601B14-FEFA-44FA-A042-9AC61DF824BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/View/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "refresh(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6CC871E-2715-459A-BE20-AD39423CC7E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/homeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "getUserCurrentLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4964073E-B490-48B0-AF98-9006BE005F8C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/View/forecastVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "searchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4964073E-B490-48B0-AF98-9006BE005F8C - e20ae373f190ae89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.forecastVC.searchAction(Any) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/View/forecastVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "4964073E-B490-48B0-AF98-9006BE005F8C - e20ae373f190ae89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.forecastVC.searchAction(Any) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/View/forecastVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17F9EE4B-B0ED-4431-9C2E-212A7C31150E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getCoordinatesFromPlaceName(location:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "116651CE-5B7D-4C39-8FB5-53260FED5C91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getForecastData(lat:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4BDFBC21-2BFA-47FD-BC2A-439380C1B9C6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getForecastData(lat:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F89757AB-5C31-4C2F-B16B-560EF45332CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "getUserCurrentLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F89757AB-5C31-4C2F-B16B-560EF45332CC - ae40e859b0858587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WeatherApp.HomeViewModel.getUserCurrentLocation() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "F89757AB-5C31-4C2F-B16B-560EF45332CC - ae40e859b0858587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WeatherApp.HomeViewModel.getUserCurrentLocation() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F12FACD4-39DC-45BA-A6CF-271E59504DD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Controller/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "getUserCurrentLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F12FACD4-39DC-45BA-A6CF-271E59504DD2 - a8b8fe0cd15aefa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getUserCurrentLocation() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "F12FACD4-39DC-45BA-A6CF-271E59504DD2 - ae40e859b08585a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in WeatherApp.HomeViewModel.getUserCurrentLocation() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/Controller/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D775E374-E217-4103-AA16-1E83B4D263AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getUserCurrentLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E47E9DC7-A77D-41EE-9DC6-E40959A3B0B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getUserCurrentLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "454A71D0-7E8F-431B-B84D-80700BB16C95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Helper/CommonMethods.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "isConnected()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCF17178-DBF8-4103-A342-ECBC62FAC3A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/View/ForeCast/ForecastVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11B70EBF-CD9A-4C54-977D-C3C6E37AD332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11B70EBF-CD9A-4C54-977D-C3C6E37AD332 - 532256e6850e83f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherApp.Result&lt;Swift.Decodable, WeatherApp.DataError&gt;) -&gt; () in WeatherApp.HomeViewModel.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+               <Location
+                  uuid = "11B70EBF-CD9A-4C54-977D-C3C6E37AD332 - 5a4e41f55b367988"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93F27FD0-29A1-47BF-B576-BC2BC9FEF32D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getForecastData(lat:long:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93F27FD0-29A1-47BF-B576-BC2BC9FEF32D - 985e85862df53a88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherApp.Result&lt;Swift.Decodable, WeatherApp.DataError&gt;) -&gt; () in WeatherApp.HomeViewModel.getForecastData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "93F27FD0-29A1-47BF-B576-BC2BC9FEF32D - 8bdcd1eece050770"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getForecastData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  uuid = "93F27FD0-29A1-47BF-B576-BC2BC9FEF32D - 89ea44a1bf97cb2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getForecastData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherApp:MVVM/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  uuid = "93F27FD0-29A1-47BF-B576-BC2BC9FEF32D - 87b7829032f2a467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getForecastData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherApp/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BC1A7A3-2FDB-4BD6-A60A-B10AFE80A3D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/View/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "bindingData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0BC1A7A3-2FDB-4BD6-A60A-B10AFE80A3D4 - 41f12b1e6d64f2bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApp.HomeAndForeCastModel&gt;) -&gt; () in WeatherApp.HomeVC.bindingData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/View/Home/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "3200">
+               </Location>
+               <Location
+                  uuid = "0BC1A7A3-2FDB-4BD6-A60A-B10AFE80A3D4 - 8ca0d9769b6cd76c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;WeatherApp.HomeAndForeCastModel&gt;) -&gt; () in WeatherApp.HomeVC.bindingData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/View/Home/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "0BC1A7A3-2FDB-4BD6-A60A-B10AFE80A3D4 - 8ca0d9769b6cd74d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;WeatherApp.HomeAndForeCastModel&gt;) -&gt; () in WeatherApp.HomeVC.bindingData() -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/View/Home/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B141AA5D-D7C0-4D4A-A0D2-2AF1C7EF4C9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Helper/AppCordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4E06200-84A9-41B7-BAF9-0057CB4B2FEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A94911B-7F92-468E-9FE9-F2907D0A32C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44C52267-6B24-48AA-B03B-74F61DE54258"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "999CB0E7-9080-4DEF-A6FD-E4E45D85B1B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getHomeData(lat:long:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "999CB0E7-9080-4DEF-A6FD-E4E45D85B1B7 - 5a4e41f55b367ee3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.HomeViewModel.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1268">
+               </Location>
+               <Location
+                  uuid = "999CB0E7-9080-4DEF-A6FD-E4E45D85B1B7 - 532256e6850e857f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherApp.Result&lt;Swift.Decodable, WeatherApp.DataError&gt;) -&gt; () in WeatherApp.HomeViewModel.getHomeData(lat: Swift.String, long: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/braveryinfotech/Desktop/WeatherAppOrg/WeatherApp/ViewModel/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
